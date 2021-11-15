@@ -1,0 +1,71 @@
+[[-2.6496473  -3.13533743  2.5054108   0.07385374  1.88850693 -3.9231607 ]
+ [-3.1182563  -0.30676097 -0.02093551 -1.80449566  3.09125608  0.592603  ]
+ [-0.98333886  0.97352419 -2.46556956 -0.57635265  0.07546115 -3.82494091]
+ [-1.70456661 -1.48633035 -0.6672787   2.90146231 -0.57427264  3.03755415]
+ [-2.28642749 -1.44471337 -0.61054347  1.85318775  0.60157246 -2.45841211]
+ [-2.67955783  3.33065243  0.3024041  -2.75495125 -1.422915   -1.4271896 ]
+ [-2.78202832  0.57795864 -3.35343391  2.50951348 -1.00248314  2.31849003]
+ [-2.82542481  3.20802694  0.14633338 -2.93027125  0.43662604 -0.67485633]]
+Generation :  0
+Best result :  19.88170658843015
+Generation :  1
+Best result :  20.808607579765752
+Generation :  2
+Best result :  27.71798629269061
+Generation :  3
+Best result :  29.673436361031076
+Generation :  4
+Best result :  35.16262619505755
+Generation :  5
+Best result :  38.74708986047986
+Generation :  6
+Best result :  44.717544850060925
+Generation :  7
+Best result :  45.73034971927094
+Generation :  8
+Best result :  45.73034971927094
+Generation :  9
+Best result :  49.11877201999316
+Generation :  10
+Best result :  57.726816520871644
+Generation :  11
+Best result :  61.669736386240295
+Generation :  12
+Best result :  66.94585210748616
+Generation :  13
+Best result :  76.15401150805522
+Generation :  14
+Best result :  76.15401150805522
+Generation :  15
+Best result :  76.15401150805522
+Generation :  16
+Best result :  76.15401150805522
+Generation :  17
+Best result :  76.96496305077457
+Generation :  18
+Best result :  78.31049948142697
+Generation :  19
+Best result :  80.04460071017616
+Generation :  20
+Best result :  80.04460071017616
+Generation :  21
+Best result :  85.1564176225807
+Generation :  22
+Best result :  88.03266148434642
+Generation :  23
+Best result :  93.0148651820177
+Generation :  24
+Best result :  97.09449044261285
+Generation :  25
+Best result :  103.95381654560919
+Generation :  26
+Best result :  103.95381654560919
+Generation :  27
+Best result :  103.95381654560919
+Generation :  28
+Best result :  109.01793519607062
+Generation :  29
+Best result :  118.92280797019723
+Best solution :  [[[-2.6496473  -3.13533743  2.5054108   1.85318775 -8.51466444
+   -2.45841211]]]
+Best solution fitness :  [118.92280797]
